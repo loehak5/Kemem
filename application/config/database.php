@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => '139.99.121.149',
-	'username' => 'satpolp2_db',
+	'hostname' => 'localhost',
+	'username' => 'root',
 	'password' => 'LukmanHakim1',
-	'database' => 'satpolp2_ukm',
+	'database' => 'ukm_db',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
